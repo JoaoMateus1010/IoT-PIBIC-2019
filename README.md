@@ -3,5 +3,5 @@ This repository have content about IoT, using NodeMCU v3 with Arduino IDE to cre
 #### IDE
 Arduino IDE
 #### libraries used:
-• https://github.com/openenergymonitor/EmonLib - Used to read electric current value
+• https://github.com/openenergymonitor/EmonLib - Used to read electric current value <br/>
 • https://github.com/knolleary/pubsubclient - Used to Client MQTT
